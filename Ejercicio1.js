@@ -17,4 +17,5 @@ function calcularImpuestos(edad, ingresos){
 		return 0
 	}
 }
+
 calcularImpuestos()
